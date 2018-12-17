@@ -1,0 +1,7 @@
+plt.show()
+dane.shape()
+dane.columns
+type(dane)
+
+
+czerwieñ - rozk³ad czêstotliwoœci w czasie jest gêstrzy 
